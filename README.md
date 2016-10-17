@@ -1,2 +1,2 @@
 # website
-CoderDojo wordpress theme
+CoderDojo wordpress theme die gebruikt word voor https://coderdojo-baarn.nl
